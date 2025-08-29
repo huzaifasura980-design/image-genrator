@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Bulk Image Generator",
+  "description": "An application to generate images in bulk using Google's Imagen 4 model. Upload a list of prompts from a .txt file, configure options, and download all generated images as a single ZIP file.",
+  "requestFramePermissions": []
+}
